@@ -8,7 +8,7 @@ interface Animal1 {
     void eat();
     void makeSound();
 }
-InterfaceeETabstraite
+// InterfaceeETabstraite
 
 // ================================
 // Classe Dog qui implémente l'interface Animal
